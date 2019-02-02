@@ -7,6 +7,4 @@ Hideyoshi Bot is a Discord Bot developed and maintained by Viducius.
 
 ## Authors
 
-* **Viducius** - *Founder and main developer* - [Viducius](https://github.com/Viducius)
-
-Also, check out the list of [contributors](https://github.com/hideyoshi-project/hideyoshi-bot/contributors) who participated in this project.
+* **Jesse** - *Founder and main developer* - [JessevdN](https://github.com/JessevdN)
