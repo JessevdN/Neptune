@@ -1,0 +1,22 @@
+{
+  "name": "hideyoshi-bot",
+  "version": "0.2.0",
+  "description": "Hideyoshi Bot, Discord bot created by Viducius - 2018",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viducius",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "chalk": "^1.1.3",
+    "moment": "^2.18.1",
+    "ms": "^0.7.3",
+    "mysql2": "^1.6.4",
+    "nodemon": "^1.18.6",
+    "npm": "^6.4.1",
+    "sequelize": "^4.41.2",
+    "timestring": "^5.0.1"
+  }
+}
