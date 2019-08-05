@@ -1,5 +1,5 @@
-# Hideyoshi Bot
-Hideyoshi Bot is a Discord Bot developed and maintained by Viducius.
+# Neptune Bot
+Neptune Bot is a Discord Bot developed and maintained by JessevdN.
 
 ## Built With
 
