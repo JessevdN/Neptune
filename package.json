@@ -11,7 +11,7 @@
   "dependencies": {
     "discord.js": "^11.4.2",
     "chalk": "^1.1.3",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "ms": "^0.7.3",
     "mysql2": "^1.6.4",
     "nodemon": "^1.18.6",
